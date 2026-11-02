@@ -30,4 +30,6 @@
     <string name="thermal_navigation">Navigation</string>
     <string name="thermal_streaming">Streaming</string>
     <string name="thermal_video">Video</string>
+    <string name="doze_settings_help_title">Help</string>
+    <string name="doze_settings_help_text">These features use sensor events to show a notification pulse. The selected sensor is enabled only when the device receives a notification, helping reduce battery usage. There is also an option to activate the sensor just after the screen turns off, but this will cause greater battery usage.</string>
 </resources>
